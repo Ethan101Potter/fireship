@@ -1,6 +1,4 @@
-# Next.js Full Course Demo
 
-This repo contains the project code for the [Full Next.js App Router Course](https://fireship.io/courses/nextjs)
 
 ## Setup
 
